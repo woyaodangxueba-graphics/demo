@@ -3,7 +3,7 @@
 // A simple 2D OpenGL program
 
 #define GL3_PROTOTYPES
-
+//Do some hammers
 // Include the vector and matrix utilities from the textbook, as well as some
 // macro definitions.
 #include "../include/Angel.h"
